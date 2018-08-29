@@ -1,0 +1,13 @@
+{
+  "project_information": {
+    "name": "multi_snake",
+    "version": "1.0.0",
+    "author": "Lin Xin"
+  },
+  "game_config": {
+    "FULL_SCREEN": false,
+    "WIDTH":800,
+    "HEIGHT":600,
+
+  }
+}
