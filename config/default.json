@@ -4,10 +4,23 @@
     "version": "1.0.0",
     "author": "Lin Xin"
   },
+  "game_settings": {
+    "background": false
+  },
   "game_config": {
     "FULL_SCREEN": false,
-    "WIDTH":800,
-    "HEIGHT":600,
-
+    "GAME_PANEL_SIZE": {
+      "X": 80,
+      "Y": 60
+    },
+    "LINE_COLOR": [
+      100,
+      100,
+      100
+    ],
+    "BLOCK_SIZE": 10
+  },
+  "resources": {
+    "BACKGROUND": "background.jpg"
   }
 }

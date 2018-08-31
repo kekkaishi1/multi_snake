@@ -112,3 +112,6 @@ dmypy.json
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Resources
+*.jpg
