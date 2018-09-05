@@ -8,11 +8,12 @@ test module
 __author__ = 'Lin Xin'
 
 import sys
+import os
 import json
 
 
 def open_config():
-    config_file = '{}\\config\\default.json'.format(sys.path[0])
+    config_file = os.path.join(sys.path[0],'config','default.json')
     with open(config_file) as f:
         config = json.load(f)
     return config

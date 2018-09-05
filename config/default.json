@@ -18,7 +18,8 @@
       100,
       100
     ],
-    "BLOCK_SIZE": 10
+    "BLOCK_SIZE": 10,
+    "KILL_SELF": false
   },
   "resources": {
     "BACKGROUND": "background.jpg"
