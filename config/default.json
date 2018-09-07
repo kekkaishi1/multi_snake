@@ -19,7 +19,9 @@
       100
     ],
     "BLOCK_SIZE": 10,
-    "KILL_SELF": false
+    "KILL_SELF": false,
+    "FRAME_RATE": 30,
+    "SPEED_VAR": 0.8
   },
   "resources": {
     "BACKGROUND": "background.jpg"
